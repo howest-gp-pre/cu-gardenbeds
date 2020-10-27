@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_GardenApp.-600083681.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="GardenApp.Cons" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="GardenApp.Cons.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="GardenApp.Cons.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="GardenApp.Core" t="IncludeRecursive">
+        <e p="AirQualitySensor.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Garden.cs" t="Include" />
+        <e p="GardenApp.Core.csproj" t="IncludeRecursive" />
+        <e p="GardenBed.cs" t="Include" />
+        <e p="ISensor.cs" t="Include" />
+        <e p="MoistureSensor.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="GardenApp.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Person.cs" t="Include" />
+        <e p="Sensor.cs" t="Include" />
+        <e p="TemperatureSensor.cs" t="Include" />
+      </e>
+      <e p="GardenApp.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
